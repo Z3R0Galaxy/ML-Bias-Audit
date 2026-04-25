@@ -1,0 +1,451 @@
+record_id,age_bracket,region,employment_type,payment_type,ato_annual_income,ato_calculated_fortnightly,reported_fortnightly_income,actual_fortnightly_income,income_variance_score,debt_raised_flag,estimated_debt_amount
+CL1000,18-24,Regional QLD,Permanent Full-Time,Youth Allowance,36730,1412.69,1509.6,1505.5,6.6,0,0.0
+CL1001,25-34,Regional VIC,Casual,JobSeeker,32524,1250.92,130.5,129.34,89.7,1,560.21
+CL1002,18-24,Regional VIC,Casual,Youth Allowance,26050,1001.92,1150.45,1155.82,15.4,0,0.0
+CL1003,35-44,Metro - Brisbane,Permanent Full-Time,Disability Support,69524,2674.0,2737.99,2805.88,4.9,0,0.0
+CL1004,18-24,Remote,Casual,JobSeeker,20534,789.77,369.2,378.77,52.0,1,210.28
+CL1005,45-54,Metro - Brisbane,Seasonal,Parenting Payment,32947,1267.19,1105.93,1124.29,11.3,0,0.0
+CL1006,55-64,Metro - Brisbane,Self-Employed,Disability Support,55673,2141.27,765.33,781.14,63.5,1,687.97
+CL1007,55-64,Metro - Brisbane,Permanent Full-Time,JobSeeker,78957,3036.81,3140.29,3119.86,2.7,0,0.0
+CL1008,25-34,Metro - Melbourne,Permanent Part-Time,JobSeeker,31840,1224.62,1367.99,1391.4,13.6,0,0.0
+CL1009,25-34,Metro - Brisbane,Seasonal,Parenting Payment,21663,833.19,113.99,116.0,86.1,1,359.6
+CL1010,35-44,Regional VIC,Seasonal,JobSeeker,26255,1009.81,1845.48,1871.89,85.4,0,0.0
+CL1011,25-34,Metro - Melbourne,Casual,Youth Allowance,36108,1388.77,2327.06,2259.63,62.7,0,0.0
+CL1012,18-24,Metro - Melbourne,Permanent Part-Time,JobSeeker,21808,838.77,786.89,780.92,6.9,0,0.0
+CL1013,18-24,Remote,Seasonal,Youth Allowance,14604,561.69,771.02,768.57,36.8,0,0.0
+CL1014,45-54,Metro - Sydney,Casual,JobSeeker,50699,1949.96,3035.08,3073.16,57.6,0,0.0
+CL1015,55-64,Metro - Melbourne,Permanent Part-Time,Disability Support,37068,1425.69,1369.33,1336.25,6.3,0,0.0
+CL1016,35-44,Remote,Seasonal,Parenting Payment,21854,840.54,999.85,973.36,15.8,0,0.0
+CL1017,18-24,Regional VIC,Self-Employed,Youth Allowance,27797,1069.12,1059.47,1068.25,0.1,0,0.0
+CL1018,25-34,Remote,Seasonal,JobSeeker,20053,771.27,299.11,293.54,61.9,1,236.08
+CL1019,35-44,Remote,Seasonal,JobSeeker,27245,1047.88,289.37,287.53,72.6,1,379.26
+CL1020,35-44,Metro - Melbourne,Self-Employed,Parenting Payment,64365,2475.58,1423.31,1434.2,42.1,1,526.13
+CL1021,18-24,Regional VIC,Casual,JobSeeker,20082,772.38,1616.73,1665.99,115.7,0,0.0
+CL1022,55-64,Regional QLD,Seasonal,JobSeeker,28663,1102.42,137.82,136.44,87.6,1,482.3
+CL1023,45-54,Metro - Melbourne,Permanent Part-Time,Parenting Payment,44699,1719.19,1842.46,1871.32,8.8,0,0.0
+CL1024,18-24,Regional NSW,Seasonal,JobSeeker,15685,603.27,1145.36,1129.83,87.3,0,0.0
+CL1025,18-24,Regional QLD,Seasonal,Youth Allowance,17113,658.19,669.07,681.68,3.6,0,0.0
+CL1026,25-34,Regional VIC,Casual,JobSeeker,30035,1155.19,2144.41,2098.9,81.7,0,0.0
+CL1027,18-24,Regional VIC,Permanent Full-Time,Youth Allowance,35189,1353.42,1424.89,1447.79,7.0,0,0.0
+CL1028,25-34,Regional NSW,Casual,JobSeeker,28172,1083.54,3296.29,3343.39,208.6,0,0.0
+CL1029,35-44,Remote,Seasonal,JobSeeker,25685,987.88,2298.72,2300.56,132.9,0,0.0
+CL1030,45-54,Metro - Melbourne,Permanent Full-Time,Disability Support,83848,3224.92,3424.37,3374.17,4.6,0,0.0
+CL1031,25-34,Metro - Sydney,Permanent Full-Time,Youth Allowance,65405,2515.58,2711.87,2655.88,5.6,0,0.0
+CL1032,25-34,Metro - Sydney,Permanent Part-Time,Parenting Payment,30300,1165.38,1242.36,1213.93,4.2,0,0.0
+CL1033,18-24,Metro - Melbourne,Permanent Part-Time,JobSeeker,25866,994.85,902.12,915.26,8.0,0,0.0
+CL1034,25-34,Regional QLD,Seasonal,JobSeeker,23318,896.85,149.68,147.45,83.6,1,373.59
+CL1035,35-44,Metro - Sydney,Permanent Full-Time,Parenting Payment,69696,2680.62,2639.99,2634.04,1.7,0,0.0
+CL1036,55-64,Regional VIC,Permanent Part-Time,Disability Support,39107,1504.12,1472.89,1443.97,4.0,0,0.0
+CL1037,55-64,Regional QLD,Casual,Disability Support,38213,1469.73,3132.87,3053.76,107.8,0,0.0
+CL1038,18-24,Metro - Sydney,Self-Employed,JobSeeker,31535,1212.88,1399.17,1394.72,15.0,0,0.0
+CL1039,25-34,Metro - Brisbane,Permanent Full-Time,JobSeeker,68445,2632.5,2685.88,2726.6,3.6,0,0.0
+CL1040,25-34,Remote,Permanent Full-Time,Youth Allowance,43631,1678.12,1582.68,1598.65,4.7,0,0.0
+CL1041,35-44,Metro - Melbourne,Permanent Part-Time,JobSeeker,42448,1632.62,1571.08,1612.17,1.3,0,0.0
+CL1042,25-34,Regional QLD,Self-Employed,Youth Allowance,44638,1716.85,1716.58,1753.61,2.1,0,0.0
+CL1043,55-64,Metro - Melbourne,Permanent Full-Time,JobSeeker,86309,3319.58,3508.82,3470.9,4.6,0,0.0
+CL1044,45-54,Regional QLD,Permanent Full-Time,Parenting Payment,70817,2723.73,2775.47,2755.52,1.2,0,0.0
+CL1045,18-24,Metro - Melbourne,Self-Employed,JobSeeker,38966,1498.69,1704.55,1737.99,16.0,0,0.0
+CL1046,18-24,Metro - Brisbane,Casual,Youth Allowance,28529,1097.27,91.94,90.84,91.7,1,502.66
+CL1047,25-34,Regional NSW,Seasonal,Parenting Payment,24282,933.92,1420.15,1395.42,49.4,0,0.0
+CL1048,25-34,Metro - Melbourne,Permanent Full-Time,Parenting Payment,60496,2326.77,2371.45,2434.34,4.6,0,0.0
+CL1049,18-24,Remote,Casual,Youth Allowance,23787,914.88,2661.48,2724.36,197.8,0,0.0
+CL1050,35-44,Metro - Brisbane,Permanent Full-Time,Disability Support,69896,2688.31,2461.5,2489.33,7.4,0,0.0
+CL1051,45-54,Regional VIC,Self-Employed,JobSeeker,50485,1941.73,2315.29,2380.36,22.6,0,0.0
+CL1052,45-54,Regional NSW,Permanent Full-Time,Disability Support,77661,2986.96,2951.47,2975.71,0.4,0,0.0
+CL1053,45-54,Metro - Sydney,Self-Employed,Disability Support,66350,2551.92,1194.96,1222.49,52.1,1,678.48
+CL1054,25-34,Metro - Brisbane,Permanent Part-Time,Parenting Payment,36223,1393.19,1320.46,1307.52,6.1,0,0.0
+CL1055,35-44,Regional NSW,Seasonal,Parenting Payment,25485,980.19,755.69,765.48,21.9,1,112.25
+CL1056,18-24,Regional NSW,Seasonal,Youth Allowance,15736,605.23,1217.11,1196.03,97.6,0,0.0
+CL1057,18-24,Remote,Seasonal,Youth Allowance,14894,572.85,587.51,572.0,0.1,0,0.0
+CL1058,18-24,Metro - Melbourne,Casual,JobSeeker,22848,878.77,221.68,217.12,75.3,1,328.54
+CL1059,45-54,Metro - Sydney,Permanent Part-Time,Disability Support,46563,1790.88,1739.51,1751.7,2.2,0,0.0
+CL1060,18-24,Regional NSW,Permanent Part-Time,Youth Allowance,23372,898.92,900.22,904.28,0.6,0,0.0
+CL1061,25-34,Metro - Melbourne,Casual,Parenting Payment,37535,1443.65,1502.23,1536.02,6.4,0,0.0
+CL1062,45-54,Regional NSW,Seasonal,Disability Support,32162,1237.0,2774.26,2738.23,121.4,0,0.0
+CL1063,35-44,Regional VIC,Casual,Disability Support,35630,1370.38,2550.09,2512.14,83.3,0,0.0
+CL1064,18-24,Remote,Seasonal,Youth Allowance,14736,566.77,22.55,22.84,96.0,1,272.11
+CL1065,25-34,Metro - Brisbane,Permanent Full-Time,Disability Support,58012,2231.23,2163.39,2178.68,2.4,0,0.0
+CL1066,25-34,Metro - Melbourne,Casual,JobSeeker,37372,1437.38,1808.13,1816.84,26.4,0,0.0
+CL1067,25-34,Remote,Seasonal,Youth Allowance,21222,816.23,642.16,647.92,20.6,1,87.04
+CL1068,35-44,Remote,Casual,Parenting Payment,35581,1368.5,3715.46,3628.84,165.2,0,0.0
+CL1069,18-24,Regional NSW,Permanent Part-Time,JobSeeker,20667,794.88,744.77,760.04,4.4,0,0.0
+CL1070,45-54,Regional NSW,Self-Employed,Disability Support,62455,2402.12,1638.75,1629.76,32.2,1,381.68
+CL1071,18-24,Regional QLD,Permanent Full-Time,Youth Allowance,40711,1565.81,1610.11,1638.46,4.6,0,0.0
+CL1072,35-44,Metro - Brisbane,Permanent Full-Time,Disability Support,89921,3458.5,3494.44,3510.96,1.5,0,0.0
+CL1073,35-44,Remote,Permanent Full-Time,JobSeeker,71041,2732.35,2660.14,2616.0,4.3,0,0.0
+CL1074,25-34,Regional QLD,Permanent Full-Time,JobSeeker,62827,2416.42,2576.73,2558.11,5.9,0,0.0
+CL1075,35-44,Metro - Melbourne,Permanent Full-Time,Parenting Payment,72499,2788.42,2660.04,2714.14,2.7,0,0.0
+CL1076,35-44,Regional VIC,Self-Employed,Parenting Payment,47870,1841.15,787.34,796.37,56.7,1,526.9
+CL1077,35-44,Regional VIC,Permanent Full-Time,JobSeeker,79276,3049.08,2784.01,2856.68,6.3,0,0.0
+CL1078,35-44,Regional QLD,Seasonal,JobSeeker,25491,980.42,2659.2,2612.76,166.5,0,0.0
+CL1079,25-34,Regional VIC,Seasonal,JobSeeker,21315,819.81,1321.19,1294.05,57.8,0,0.0
+CL1080,25-34,Remote,Casual,JobSeeker,32163,1237.04,1380.39,1407.75,13.8,0,0.0
+CL1081,45-54,Regional VIC,Self-Employed,JobSeeker,56297,2165.27,2888.49,2891.35,33.5,0,0.0
+CL1082,18-24,Regional NSW,Seasonal,Youth Allowance,14793,568.96,812.74,815.15,43.3,0,0.0
+CL1083,18-24,Remote,Casual,Youth Allowance,17848,686.46,813.24,827.53,20.6,0,0.0
+CL1084,35-44,Remote,Casual,JobSeeker,39189,1507.27,2942.25,2997.82,98.9,0,0.0
+CL1085,25-34,Metro - Melbourne,Casual,Youth Allowance,39010,1500.38,2944.38,2893.52,92.9,0,0.0
+CL1086,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,49102,1888.54,1790.06,1807.0,4.3,0,0.0
+CL1087,25-34,Regional QLD,Casual,JobSeeker,30588,1176.46,436.37,441.25,62.5,1,370.05
+CL1088,25-34,Regional QLD,Casual,Parenting Payment,29709,1142.65,2909.56,2828.67,147.6,0,0.0
+CL1089,55-64,Regional VIC,Casual,Disability Support,35568,1368.0,2060.02,2034.63,48.7,0,0.0
+CL1090,45-54,Metro - Melbourne,Permanent Full-Time,Disability Support,87704,3373.23,3451.1,3530.26,4.7,0,0.0
+CL1091,18-24,Remote,Seasonal,JobSeeker,13278,510.69,827.99,805.49,57.7,0,0.0
+CL1092,25-34,Metro - Brisbane,Self-Employed,Youth Allowance,48026,1847.15,2589.93,2661.21,44.1,0,0.0
+CL1093,25-34,Metro - Melbourne,Casual,Disability Support,34112,1312.0,2314.32,2301.05,75.4,0,0.0
+CL1094,18-24,Regional VIC,Permanent Part-Time,Youth Allowance,21362,821.62,892.46,873.58,6.3,0,0.0
+CL1095,18-24,Regional NSW,Permanent Part-Time,Youth Allowance,23302,896.23,937.57,954.11,6.5,0,0.0
+CL1096,35-44,Regional QLD,Permanent Full-Time,JobSeeker,62515,2404.42,2364.84,2377.89,1.1,0,0.0
+CL1097,25-34,Regional QLD,Seasonal,JobSeeker,23553,905.88,1687.8,1669.03,84.2,0,0.0
+CL1098,35-44,Metro - Brisbane,Casual,Parenting Payment,50968,1960.31,4062.68,4027.01,105.4,0,0.0
+CL1099,18-24,Metro - Brisbane,Seasonal,JobSeeker,17150,659.62,1375.4,1393.07,111.2,0,0.0
+CL1100,25-34,Metro - Sydney,Permanent Part-Time,JobSeeker,31863,1225.5,1104.57,1098.11,10.4,0,0.0
+CL1101,18-24,Regional NSW,Seasonal,Youth Allowance,14714,565.92,1589.23,1580.97,179.4,0,0.0
+CL1102,25-34,Metro - Sydney,Self-Employed,Parenting Payment,42672,1641.23,1510.88,1488.0,9.3,0,0.0
+CL1103,25-34,Regional NSW,Casual,JobSeeker,37313,1435.12,3962.22,3853.76,168.5,0,0.0
+CL1104,35-44,Regional NSW,Permanent Part-Time,JobSeeker,40732,1566.62,1432.35,1450.78,7.4,0,0.0
+CL1105,18-24,Regional NSW,Seasonal,Youth Allowance,15125,581.73,291.79,293.48,49.5,1,144.97
+CL1106,45-54,Regional VIC,Seasonal,JobSeeker,28013,1077.42,292.6,290.46,73.0,1,392.41
+CL1107,25-34,Regional NSW,Casual,Parenting Payment,32951,1267.35,2315.01,2287.8,80.5,0,0.0
+CL1108,35-44,Metro - Sydney,Permanent Full-Time,Parenting Payment,84184,3237.85,3416.97,3456.22,6.7,0,0.0
+CL1109,55-64,Metro - Sydney,Permanent Part-Time,JobSeeker,44843,1724.73,1673.73,1641.03,4.9,0,0.0
+CL1110,35-44,Regional NSW,Self-Employed,JobSeeker,51890,1995.77,2077.35,2079.53,4.2,0,0.0
+CL1111,18-24,Regional NSW,Permanent Part-Time,Youth Allowance,24487,941.81,764.73,748.38,20.5,1,88.54
+CL1112,35-44,Metro - Brisbane,Casual,Disability Support,48993,1884.35,2.54,2.51,99.9,1,940.9
+CL1113,45-54,Remote,Seasonal,Disability Support,22468,864.15,1376.19,1371.92,58.8,0,0.0
+CL1114,55-64,Regional VIC,Casual,Disability Support,43348,1667.23,339.11,332.02,80.1,1,664.06
+CL1115,35-44,Regional NSW,Permanent Full-Time,Parenting Payment,76207,2931.04,2895.51,2915.44,0.5,0,0.0
+CL1116,18-24,Regional QLD,Seasonal,Youth Allowance,18249,701.88,348.78,352.33,49.8,1,176.55
+CL1117,18-24,Metro - Sydney,Seasonal,Youth Allowance,17965,690.96,1212.98,1201.82,73.9,0,0.0
+CL1118,25-34,Metro - Melbourne,Permanent Full-Time,Parenting Payment,67196,2584.46,2516.03,2542.18,1.6,0,0.0
+CL1119,25-34,Regional QLD,Seasonal,JobSeeker,23631,908.88,2492.9,2564.31,182.1,0,0.0
+CL1120,25-34,Metro - Sydney,Permanent Full-Time,Parenting Payment,59502,2288.54,2259.72,2316.66,1.2,0,0.0
+CL1121,25-34,Metro - Sydney,Casual,Parenting Payment,33207,1277.19,19.03,19.23,98.5,1,629.08
+CL1122,18-24,Metro - Sydney,Permanent Full-Time,JobSeeker,47238,1816.85,1636.31,1669.36,8.1,0,0.0
+CL1123,35-44,Metro - Sydney,Permanent Part-Time,JobSeeker,41771,1606.58,1499.33,1491.89,7.1,0,0.0
+CL1124,25-34,Metro - Melbourne,Permanent Part-Time,JobSeeker,29166,1121.77,1215.82,1203.0,7.2,0,0.0
+CL1125,55-64,Metro - Melbourne,Permanent Full-Time,Disability Support,71045,2732.5,2523.76,2455.68,10.1,0,0.0
+CL1126,25-34,Regional QLD,Permanent Part-Time,Parenting Payment,29055,1117.5,1040.19,1035.72,7.3,0,0.0
+CL1127,18-24,Regional VIC,Permanent Part-Time,Youth Allowance,23888,918.77,920.1,925.89,0.8,0,0.0
+CL1128,35-44,Metro - Sydney,Permanent Part-Time,Parenting Payment,36145,1390.19,1292.97,1262.36,9.2,0,0.0
+CL1129,45-54,Metro - Brisbane,Casual,JobSeeker,43175,1660.58,219.74,216.42,87.0,1,720.42
+CL1130,35-44,Remote,Seasonal,Parenting Payment,26931,1035.81,1551.19,1556.72,50.3,0,0.0
+CL1131,55-64,Regional VIC,Casual,JobSeeker,35915,1381.35,1756.17,1726.49,25.0,0,0.0
+CL1132,55-64,Metro - Brisbane,Permanent Part-Time,Disability Support,36991,1422.73,1345.08,1319.38,7.3,0,0.0
+CL1133,45-54,Regional NSW,Self-Employed,JobSeeker,60740,2336.15,2049.79,2019.0,13.6,0,0.0
+CL1134,55-64,Metro - Melbourne,Seasonal,Parenting Payment,33521,1289.27,2145.92,2109.13,63.6,0,0.0
+CL1135,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,69641,2678.5,2650.61,2688.98,0.4,0,0.0
+CL1136,25-34,Regional NSW,Seasonal,Disability Support,20405,784.81,362.19,360.86,54.0,1,211.31
+CL1137,45-54,Regional VIC,Permanent Part-Time,JobSeeker,43179,1660.73,1571.23,1605.94,3.3,0,0.0
+CL1138,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,52237,2009.12,2060.49,2106.54,4.8,0,0.0
+CL1139,45-54,Regional NSW,Casual,Disability Support,41992,1615.08,4098.41,4005.78,148.0,0,0.0
+CL1140,18-24,Regional QLD,Permanent Full-Time,Youth Allowance,46763,1798.58,1876.88,1883.28,4.7,0,0.0
+CL1141,35-44,Metro - Melbourne,Seasonal,JobSeeker,31211,1200.42,1931.96,1943.84,61.9,0,0.0
+CL1142,55-64,Metro - Melbourne,Self-Employed,Disability Support,50676,1949.08,2047.07,2083.05,6.9,0,0.0
+CL1143,45-54,Regional QLD,Seasonal,JobSeeker,26156,1006.0,287.7,295.34,70.6,1,359.15
+CL1144,25-34,Remote,Seasonal,Youth Allowance,18082,695.46,1836.4,1825.88,162.5,0,0.0
+CL1145,18-24,Metro - Brisbane,Seasonal,JobSeeker,16839,647.65,216.3,222.63,65.6,1,215.67
+CL1146,35-44,Metro - Sydney,Permanent Full-Time,Parenting Payment,67695,2603.65,2584.8,2597.12,0.3,0,0.0
+CL1147,25-34,Metro - Sydney,Casual,Youth Allowance,37047,1424.88,383.29,373.31,73.8,1,520.8
+CL1148,45-54,Metro - Sydney,Casual,Disability Support,44344,1705.54,1498.16,1454.64,14.7,0,0.0
+CL1149,18-24,Remote,Casual,Youth Allowance,23342,897.77,37.97,37.72,95.8,1,429.9
+CL1150,35-44,Metro - Sydney,Permanent Full-Time,Parenting Payment,84241,3240.04,3300.24,3323.99,2.6,0,0.0
+CL1151,18-24,Regional VIC,Casual,Youth Allowance,20632,793.54,2222.43,2202.49,177.6,0,0.0
+CL1152,25-34,Remote,Seasonal,Parenting Payment,21944,844.0,2278.51,2292.44,171.6,0,0.0
+CL1153,35-44,Regional QLD,Permanent Full-Time,JobSeeker,67068,2579.54,2675.91,2747.26,6.5,0,0.0
+CL1154,35-44,Remote,Permanent Full-Time,JobSeeker,59416,2285.23,2441.62,2497.04,9.3,0,0.0
+CL1155,18-24,Metro - Sydney,Permanent Part-Time,Youth Allowance,21901,842.35,778.35,766.83,9.0,0,0.0
+CL1156,25-34,Remote,Self-Employed,JobSeeker,36438,1401.46,1931.77,1978.83,41.2,0,0.0
+CL1157,18-24,Regional VIC,Permanent Part-Time,Youth Allowance,19181,737.73,789.81,777.56,5.4,0,0.0
+CL1158,35-44,Regional VIC,Permanent Part-Time,JobSeeker,39735,1528.27,1417.74,1407.46,7.9,0,0.0
+CL1159,55-64,Regional QLD,Seasonal,JobSeeker,28429,1093.42,103.83,102.58,90.6,1,494.8
+CL1160,18-24,Metro - Brisbane,Self-Employed,JobSeeker,31924,1227.85,1154.55,1138.1,7.3,0,0.0
+CL1161,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,46149,1774.96,1710.9,1746.81,1.6,0,0.0
+CL1162,35-44,Metro - Brisbane,Casual,Parenting Payment,39484,1518.62,125.18,124.3,91.8,1,696.72
+CL1163,25-34,Regional QLD,Permanent Full-Time,JobSeeker,58856,2263.69,2197.64,2196.01,3.0,0,0.0
+CL1164,35-44,Metro - Brisbane,Permanent Part-Time,JobSeeker,41632,1601.23,1675.15,1658.52,3.6,0,0.0
+CL1165,25-34,Metro - Sydney,Permanent Full-Time,Disability Support,59054,2271.31,2492.81,2453.92,8.0,0,0.0
+CL1166,35-44,Metro - Brisbane,Permanent Full-Time,JobSeeker,71495,2749.81,2651.52,2670.72,2.9,0,0.0
+CL1167,18-24,Regional QLD,Permanent Part-Time,Youth Allowance,20785,799.42,691.74,694.4,13.1,0,0.0
+CL1168,35-44,Regional NSW,Self-Employed,Parenting Payment,54412,2092.77,2854.78,2819.34,34.7,0,0.0
+CL1169,55-64,Regional NSW,Permanent Part-Time,JobSeeker,31656,1217.54,1360.77,1345.46,10.5,0,0.0
+CL1170,25-34,Metro - Brisbane,Permanent Full-Time,Parenting Payment,66528,2558.77,2516.46,2512.85,1.8,0,0.0
+CL1171,25-34,Regional NSW,Seasonal,Parenting Payment,24033,924.35,304.93,304.37,67.1,1,309.71
+CL1172,35-44,Metro - Melbourne,Self-Employed,JobSeeker,66289,2549.58,2750.31,2809.92,10.2,0,0.0
+CL1173,45-54,Metro - Melbourne,Permanent Full-Time,JobSeeker,72252,2778.92,2758.02,2685.31,3.4,0,0.0
+CL1174,25-34,Regional QLD,Casual,Youth Allowance,31974,1229.77,2604.61,2583.64,110.1,0,0.0
+CL1175,35-44,Regional VIC,Permanent Part-Time,Disability Support,36119,1389.19,1217.94,1196.66,13.9,0,0.0
+CL1176,18-24,Regional VIC,Permanent Full-Time,Youth Allowance,40590,1561.15,1540.48,1582.55,1.4,0,0.0
+CL1177,35-44,Remote,Casual,Youth Allowance,30854,1186.69,2002.88,1993.27,68.0,0,0.0
+CL1178,55-64,Remote,Seasonal,JobSeeker,23425,900.96,283.47,283.45,68.5,1,308.75
+CL1179,35-44,Metro - Sydney,Permanent Part-Time,Parenting Payment,47849,1840.35,2012.02,2069.24,12.4,0,0.0
+CL1180,35-44,Regional QLD,Casual,JobSeeker,35625,1370.19,1964.96,1975.78,44.2,0,0.0
+CL1181,35-44,Metro - Brisbane,Casual,JobSeeker,42863,1648.58,475.06,478.32,71.0,1,586.76
+CL1182,45-54,Metro - Brisbane,Casual,Parenting Payment,52430,2016.54,597.91,611.06,69.7,1,709.32
+CL1183,35-44,Metro - Brisbane,Permanent Full-Time,Parenting Payment,70384,2707.08,2840.84,2805.68,3.6,0,0.0
+CL1184,45-54,Metro - Sydney,Permanent Full-Time,JobSeeker,90580,3483.85,3374.0,3326.35,4.5,0,0.0
+CL1185,35-44,Regional QLD,Self-Employed,JobSeeker,53376,2052.92,844.04,869.16,57.7,1,604.44
+CL1186,55-64,Metro - Brisbane,Permanent Full-Time,JobSeeker,75289,2895.73,2833.54,2907.3,0.4,0,0.0
+CL1187,18-24,Remote,Seasonal,Youth Allowance,15212,585.08,1393.36,1362.59,132.9,0,0.0
+CL1188,18-24,Regional VIC,Permanent Full-Time,JobSeeker,45278,1741.46,1817.41,1788.32,2.7,0,0.0
+CL1189,18-24,Remote,Self-Employed,Youth Allowance,26750,1028.85,853.7,848.07,17.6,1,87.57
+CL1190,35-44,Remote,Seasonal,JobSeeker,22651,871.19,1668.55,1635.66,87.7,0,0.0
+CL1191,18-24,Metro - Brisbane,Casual,Youth Allowance,28804,1107.85,2157.26,2167.84,95.7,0,0.0
+CL1192,25-34,Metro - Melbourne,Casual,Parenting Payment,34133,1312.81,3721.39,3709.25,182.5,0,0.0
+CL1193,18-24,Metro - Sydney,Casual,Youth Allowance,23323,897.04,209.76,209.59,76.6,1,343.64
+CL1194,35-44,Remote,Casual,Disability Support,34662,1333.15,17.99,18.49,98.6,1,657.58
+CL1195,18-24,Regional VIC,Casual,JobSeeker,21514,827.46,43.18,42.63,94.8,1,392.14
+CL1196,25-34,Metro - Brisbane,Casual,JobSeeker,40550,1559.62,1744.27,1723.02,10.5,0,0.0
+CL1197,18-24,Regional NSW,Casual,Parenting Payment,21451,825.04,406.02,403.38,51.1,1,209.51
+CL1198,25-34,Regional NSW,Permanent Full-Time,JobSeeker,49287,1895.65,1641.76,1649.7,13.0,0,0.0
+CL1199,45-54,Remote,Seasonal,JobSeeker,25115,965.96,2191.71,2181.89,125.9,0,0.0
+CL1200,35-44,Regional QLD,Permanent Full-Time,JobSeeker,64272,2472.0,2256.36,2313.89,6.4,0,0.0
+CL1201,18-24,Metro - Brisbane,Permanent Full-Time,Youth Allowance,53656,2063.69,2146.96,2140.01,3.7,0,0.0
+CL1202,25-34,Regional NSW,Seasonal,JobSeeker,21333,820.5,1291.21,1325.6,61.6,0,0.0
+CL1203,35-44,Metro - Melbourne,Casual,Parenting Payment,48282,1857.0,42.93,42.81,97.7,1,907.03
+CL1204,35-44,Remote,Seasonal,Parenting Payment,27489,1057.27,1247.68,1275.63,20.7,0,0.0
+CL1205,25-34,Regional QLD,Seasonal,JobSeeker,19141,736.19,16.46,16.04,97.8,1,359.87
+CL1206,25-34,Regional VIC,Casual,Parenting Payment,27958,1075.31,1592.53,1558.66,44.9,0,0.0
+CL1207,18-24,Metro - Sydney,Seasonal,JobSeeker,17479,672.27,1733.77,1693.67,151.9,0,0.0
+CL1208,35-44,Regional NSW,Permanent Part-Time,JobSeeker,35320,1358.46,1354.99,1389.79,2.3,0,0.0
+CL1209,25-34,Regional NSW,Permanent Full-Time,Youth Allowance,57802,2223.15,2116.48,2139.43,3.8,0,0.0
+CL1210,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,69031,2655.04,2718.31,2726.96,2.7,0,0.0
+CL1211,55-64,Regional QLD,Seasonal,JobSeeker,24122,927.77,2710.62,2781.54,199.8,0,0.0
+CL1212,25-34,Regional QLD,Casual,Youth Allowance,29160,1121.54,500.23,494.94,55.9,1,310.65
+CL1213,45-54,Regional NSW,Permanent Full-Time,JobSeeker,69942,2690.08,2796.47,2816.26,4.7,0,0.0
+CL1214,25-34,Regional VIC,Permanent Full-Time,JobSeeker,54817,2108.35,2023.8,2068.77,1.9,0,0.0
+CL1215,25-34,Metro - Brisbane,Permanent Full-Time,Parenting Payment,57285,2203.27,2249.84,2218.47,0.7,0,0.0
+CL1216,25-34,Regional NSW,Casual,Disability Support,35151,1351.96,1744.98,1733.34,28.2,0,0.0
+CL1217,18-24,Regional QLD,Self-Employed,Youth Allowance,34790,1338.08,379.82,381.08,71.5,1,479.13
+CL1218,55-64,Metro - Sydney,Casual,Disability Support,45218,1739.15,3549.6,3594.82,106.7,0,0.0
+CL1219,45-54,Metro - Brisbane,Seasonal,Parenting Payment,33530,1289.62,2483.44,2541.17,97.0,0,0.0
+CL1220,25-34,Metro - Melbourne,Casual,JobSeeker,35360,1360.0,2622.12,2548.27,87.4,0,0.0
+CL1221,25-34,Metro - Melbourne,Permanent Part-Time,JobSeeker,39326,1512.54,1629.72,1608.6,6.4,0,0.0
+CL1222,35-44,Regional VIC,Casual,JobSeeker,35227,1354.88,52.14,52.25,96.1,1,651.37
+CL1223,35-44,Regional VIC,Permanent Part-Time,Parenting Payment,38327,1474.12,1626.63,1633.23,10.8,0,0.0
+CL1224,18-24,Remote,Permanent Full-Time,JobSeeker,32832,1262.77,1397.33,1412.36,11.8,0,0.0
+CL1225,45-54,Regional QLD,Permanent Part-Time,Disability Support,35965,1383.27,1503.8,1463.72,5.8,0,0.0
+CL1226,35-44,Metro - Brisbane,Permanent Full-Time,JobSeeker,79261,3048.5,3034.85,3096.41,1.6,0,0.0
+CL1227,25-34,Regional VIC,Permanent Full-Time,Youth Allowance,58823,2262.42,2388.14,2342.43,3.5,0,0.0
+CL1228,55-64,Metro - Sydney,Permanent Full-Time,Disability Support,70262,2702.38,2512.59,2556.96,5.4,0,0.0
+CL1229,18-24,Regional VIC,Casual,Youth Allowance,24347,936.42,465.35,465.83,50.3,1,235.53
+CL1230,25-34,Remote,Seasonal,JobSeeker,20768,798.77,172.26,172.63,78.4,1,313.25
+CL1231,35-44,Metro - Brisbane,Casual,JobSeeker,48269,1856.5,5559.35,5685.3,206.2,0,0.0
+CL1232,25-34,Metro - Brisbane,Permanent Part-Time,JobSeeker,30327,1166.42,1075.54,1105.34,5.2,0,0.0
+CL1233,55-64,Regional NSW,Seasonal,JobSeeker,28995,1115.19,3350.39,3306.52,196.5,0,0.0
+CL1234,18-24,Metro - Melbourne,Casual,Youth Allowance,26640,1024.62,12.68,12.35,98.8,1,505.97
+CL1235,35-44,Regional VIC,Casual,JobSeeker,34314,1319.77,418.51,410.07,68.9,1,450.63
+CL1236,25-34,Regional QLD,Casual,Youth Allowance,31799,1223.04,3084.09,3036.03,148.2,0,0.0
+CL1237,35-44,Metro - Brisbane,Permanent Full-Time,JobSeeker,75934,2920.54,2908.24,2945.6,0.9,0,0.0
+CL1238,25-34,Regional NSW,Casual,Parenting Payment,37237,1432.19,1558.47,1515.28,5.8,0,0.0
+CL1239,45-54,Regional NSW,Casual,Disability Support,39819,1531.5,476.95,479.79,68.7,1,527.27
+CL1240,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,64290,2472.69,2312.17,2310.02,6.6,0,0.0
+CL1241,25-34,Metro - Brisbane,Self-Employed,JobSeeker,51230,1970.38,2267.43,2221.76,12.8,0,0.0
+CL1242,35-44,Regional VIC,Permanent Part-Time,Parenting Payment,39087,1503.35,1407.05,1418.25,5.7,0,0.0
+CL1243,25-34,Regional QLD,Permanent Full-Time,JobSeeker,63846,2455.62,2730.1,2670.48,8.7,0,0.0
+CL1244,35-44,Regional QLD,Permanent Full-Time,Youth Allowance,75611,2908.12,2978.41,2939.36,1.1,0,0.0
+CL1245,25-34,Regional VIC,Casual,Youth Allowance,35147,1351.81,3597.0,3653.51,170.3,0,0.0
+CL1246,18-24,Regional VIC,Self-Employed,JobSeeker,29702,1142.38,611.45,624.51,45.3,1,265.47
+CL1247,18-24,Regional QLD,Permanent Part-Time,Youth Allowance,21551,828.88,917.52,906.33,9.3,0,0.0
+CL1248,35-44,Regional VIC,Permanent Part-Time,JobSeeker,37065,1425.58,1224.42,1238.26,13.1,0,0.0
+CL1249,18-24,Metro - Melbourne,Permanent Part-Time,Youth Allowance,26003,1000.12,1122.02,1101.94,10.2,0,0.0
+CL1250,25-34,Metro - Brisbane,Casual,JobSeeker,37543,1443.96,721.65,730.52,49.4,1,361.16
+CL1251,25-34,Metro - Brisbane,Casual,Parenting Payment,36676,1410.62,4240.53,4184.87,196.7,0,0.0
+CL1252,25-34,Metro - Brisbane,Permanent Full-Time,Parenting Payment,74134,2851.31,2743.54,2692.11,5.6,0,0.0
+CL1253,25-34,Remote,Seasonal,JobSeeker,20919,804.58,182.38,185.08,77.0,1,311.1
+CL1254,25-34,Regional NSW,Permanent Part-Time,Parenting Payment,30656,1179.08,1188.33,1171.4,0.7,0,0.0
+CL1255,35-44,Metro - Melbourne,Permanent Full-Time,Parenting Payment,82478,3172.23,3160.6,3247.81,2.4,0,0.0
+CL1256,18-24,Regional NSW,Permanent Part-Time,Youth Allowance,19372,745.08,926.32,945.73,26.9,0,0.0
+CL1257,25-34,Regional QLD,Self-Employed,Parenting Payment,39632,1524.31,1231.95,1198.59,21.4,1,146.18
+CL1258,45-54,Metro - Brisbane,Permanent Full-Time,JobSeeker,86583,3330.12,3431.17,3360.53,0.9,0,0.0
+CL1259,45-54,Metro - Sydney,Self-Employed,JobSeeker,57098,2196.08,3534.28,3447.48,57.0,0,0.0
+CL1260,25-34,Remote,Casual,Youth Allowance,32772,1260.46,3464.01,3569.1,183.2,0,0.0
+CL1261,35-44,Regional VIC,Casual,Disability Support,39144,1505.54,3092.04,3021.47,100.7,0,0.0
+CL1262,18-24,Metro - Melbourne,Seasonal,Youth Allowance,16085,618.65,145.48,147.63,76.1,1,236.58
+CL1263,25-34,Metro - Melbourne,Permanent Full-Time,JobSeeker,68190,2622.69,2708.03,2685.68,2.4,0,0.0
+CL1264,18-24,Regional NSW,Seasonal,Youth Allowance,16829,647.27,46.83,47.33,92.7,1,300.22
+CL1265,25-34,Metro - Melbourne,Permanent Full-Time,JobSeeker,60270,2318.08,2442.07,2467.29,6.4,0,0.0
+CL1266,35-44,Regional VIC,Seasonal,JobSeeker,28671,1102.73,67.0,67.79,93.9,1,517.87
+CL1267,55-64,Regional NSW,Seasonal,Disability Support,27966,1075.62,2511.26,2446.58,127.5,0,0.0
+CL1268,18-24,Metro - Brisbane,Casual,JobSeeker,23877,918.35,2007.81,2018.0,119.7,0,0.0
+CL1269,35-44,Regional VIC,Self-Employed,Parenting Payment,58441,2247.73,2349.62,2336.19,3.9,0,0.0
+CL1270,35-44,Remote,Permanent Full-Time,JobSeeker,53957,2075.27,1926.38,1918.99,7.5,0,0.0
+CL1271,35-44,Metro - Sydney,Casual,Disability Support,45596,1753.69,776.5,779.22,55.6,1,488.6
+CL1272,18-24,Regional QLD,Permanent Part-Time,Youth Allowance,21804,838.62,872.53,871.84,4.0,0,0.0
+CL1273,18-24,Regional NSW,Casual,Youth Allowance,22102,850.08,109.13,112.48,86.8,1,370.48
+CL1274,25-34,Metro - Melbourne,Permanent Part-Time,JobSeeker,29724,1143.23,1056.44,1026.02,10.3,0,0.0
+CL1275,18-24,Metro - Sydney,Self-Employed,Youth Allowance,32318,1243.0,1676.6,1653.85,33.1,0,0.0
+CL1276,25-34,Regional NSW,Casual,Parenting Payment,36535,1405.19,1397.79,1359.92,3.2,0,0.0
+CL1277,18-24,Remote,Seasonal,Youth Allowance,12827,493.35,1008.93,995.32,101.7,0,0.0
+CL1278,55-64,Metro - Melbourne,Casual,Parenting Payment,42572,1637.38,2881.18,2902.2,77.2,0,0.0
+CL1279,25-34,Metro - Melbourne,Permanent Full-Time,JobSeeker,73303,2819.35,3011.29,2971.17,5.4,0,0.0
+CL1280,35-44,Metro - Sydney,Permanent Full-Time,Parenting Payment,89565,3444.81,3450.81,3542.79,2.8,0,0.0
+CL1281,25-34,Regional VIC,Permanent Full-Time,Youth Allowance,49303,1896.27,1877.82,1851.1,2.4,0,0.0
+CL1282,25-34,Regional NSW,Casual,Youth Allowance,35161,1352.35,687.5,698.64,48.3,1,332.42
+CL1283,25-34,Regional QLD,Casual,Youth Allowance,35574,1368.23,641.61,623.44,54.4,1,363.31
+CL1284,18-24,Regional VIC,Permanent Part-Time,JobSeeker,24661,948.5,1108.85,1100.53,16.0,0,0.0
+CL1285,25-34,Regional NSW,Casual,JobSeeker,33868,1302.62,2645.47,2614.67,100.7,0,0.0
+CL1286,45-54,Regional NSW,Permanent Full-Time,JobSeeker,72285,2780.19,2624.07,2570.2,7.6,0,0.0
+CL1287,25-34,Metro - Brisbane,Seasonal,JobSeeker,21856,840.62,1477.62,1474.97,75.5,0,0.0
+CL1288,35-44,Regional NSW,Permanent Part-Time,JobSeeker,41443,1593.96,1656.22,1634.2,2.5,0,0.0
+CL1289,35-44,Metro - Melbourne,Permanent Full-Time,JobSeeker,68260,2625.38,2511.92,2578.0,1.8,0,0.0
+CL1290,18-24,Remote,Seasonal,Youth Allowance,14108,542.62,869.21,846.01,55.9,0,0.0
+CL1291,35-44,Metro - Sydney,Permanent Full-Time,JobSeeker,85066,3271.77,3320.16,3281.64,0.3,0,0.0
+CL1292,35-44,Regional QLD,Permanent Part-Time,Parenting Payment,39824,1531.69,1183.63,1192.17,22.2,1,174.03
+CL1293,25-34,Regional VIC,Seasonal,JobSeeker,24723,950.88,2561.75,2528.01,165.9,0,0.0
+CL1294,25-34,Remote,Seasonal,Parenting Payment,19148,736.46,935.47,955.77,29.8,0,0.0
+CL1295,25-34,Metro - Brisbane,Permanent Part-Time,Youth Allowance,32099,1234.58,1269.47,1264.18,2.4,0,0.0
+CL1296,35-44,Metro - Melbourne,Permanent Part-Time,Parenting Payment,38757,1490.65,1623.05,1592.33,6.8,0,0.0
+CL1297,18-24,Regional QLD,Seasonal,Youth Allowance,17433,670.5,250.96,251.14,62.5,1,209.77
+CL1298,45-54,Regional VIC,Self-Employed,Disability Support,61322,2358.54,3618.4,3719.15,57.7,0,0.0
+CL1299,25-34,Metro - Sydney,Permanent Full-Time,Parenting Payment,68827,2647.19,2676.0,2757.2,4.2,0,0.0
+CL1300,35-44,Regional VIC,Casual,JobSeeker,44854,1725.15,3890.63,4007.06,132.3,0,0.0
+CL1301,35-44,Regional VIC,Casual,JobSeeker,37006,1423.31,1189.2,1167.27,18.0,1,117.05
+CL1302,25-34,Regional QLD,Casual,Disability Support,36544,1405.54,1902.43,1888.86,34.4,0,0.0
+CL1303,25-34,Metro - Brisbane,Casual,JobSeeker,35495,1365.19,2954.19,2869.78,110.2,0,0.0
+CL1304,18-24,Metro - Melbourne,Permanent Full-Time,Parenting Payment,53703,2065.5,2038.43,2050.08,0.7,0,0.0
+CL1305,18-24,Regional NSW,Casual,JobSeeker,21140,813.08,1484.67,1459.76,79.5,0,0.0
+CL1306,55-64,Regional VIC,Self-Employed,Disability Support,57210,2200.38,2009.24,2042.35,7.2,0,0.0
+CL1307,18-24,Remote,Seasonal,Youth Allowance,16002,615.46,886.13,883.85,43.6,0,0.0
+CL1308,35-44,Regional QLD,Permanent Full-Time,Disability Support,79345,3051.73,2870.17,2834.0,7.1,0,0.0
+CL1309,35-44,Regional NSW,Self-Employed,JobSeeker,54305,2088.65,1484.09,1453.61,30.4,1,302.28
+CL1310,45-54,Regional QLD,Seasonal,JobSeeker,25275,972.12,2405.65,2405.54,147.5,0,0.0
+CL1311,25-34,Metro - Brisbane,Permanent Full-Time,Youth Allowance,61701,2373.12,2393.37,2408.3,1.5,0,0.0
+CL1312,25-34,Remote,Casual,Youth Allowance,28355,1090.58,311.29,313.63,71.2,1,389.64
+CL1313,18-24,Metro - Melbourne,Casual,Parenting Payment,27598,1061.46,2533.99,2599.17,144.9,0,0.0
+CL1314,25-34,Metro - Melbourne,Permanent Full-Time,Parenting Payment,62654,2409.77,2094.34,2111.99,12.4,0,0.0
+CL1315,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,60324,2320.15,2363.17,2370.45,2.2,0,0.0
+CL1316,18-24,Regional VIC,Casual,JobSeeker,23833,916.65,2449.91,2397.59,161.6,0,0.0
+CL1317,18-24,Metro - Sydney,Permanent Full-Time,JobSeeker,52432,2016.62,2114.86,2064.66,2.4,0,0.0
+CL1318,25-34,Metro - Melbourne,Permanent Part-Time,JobSeeker,30494,1172.85,1100.07,1129.67,3.7,0,0.0
+CL1319,45-54,Regional NSW,Permanent Part-Time,JobSeeker,36854,1417.46,1616.21,1574.25,11.1,0,0.0
+CL1320,18-24,Regional QLD,Seasonal,Youth Allowance,14128,543.38,265.4,268.1,50.7,1,138.99
+CL1321,25-34,Regional VIC,Casual,Parenting Payment,31796,1222.92,2832.86,2816.91,130.3,0,0.0
+CL1322,35-44,Metro - Brisbane,Permanent Full-Time,Disability Support,74785,2876.35,3204.99,3245.6,12.8,0,0.0
+CL1323,55-64,Regional QLD,Seasonal,Disability Support,24521,943.12,382.28,385.4,59.1,1,280.42
+CL1324,25-34,Regional VIC,Permanent Full-Time,Disability Support,61602,2369.31,2235.17,2300.47,2.9,0,0.0
+CL1325,18-24,Regional QLD,Casual,Youth Allowance,21984,845.54,2320.33,2279.89,169.6,0,0.0
+CL1326,25-34,Regional NSW,Seasonal,JobSeeker,20531,789.65,172.46,173.74,78.0,1,308.59
+CL1327,18-24,Regional NSW,Self-Employed,Youth Allowance,31522,1212.38,1788.27,1783.6,47.1,0,0.0
+CL1328,25-34,Remote,Self-Employed,Youth Allowance,39697,1526.81,1161.83,1133.64,25.8,1,182.49
+CL1329,25-34,Metro - Sydney,Casual,Parenting Payment,38527,1481.81,765.98,757.91,48.9,1,357.91
+CL1330,45-54,Regional NSW,Self-Employed,JobSeeker,49080,1887.69,2302.42,2268.82,20.2,0,0.0
+CL1331,18-24,Regional VIC,Casual,Youth Allowance,22686,872.54,1882.38,1882.33,115.7,0,0.0
+CL1332,18-24,Metro - Brisbane,Self-Employed,Youth Allowance,40260,1548.46,1727.43,1771.45,14.4,0,0.0
+CL1333,25-34,Remote,Self-Employed,JobSeeker,38093,1465.12,1620.46,1622.78,10.8,0,0.0
+CL1334,18-24,Regional NSW,Seasonal,Youth Allowance,13828,531.85,438.78,442.95,16.7,1,46.54
+CL1335,55-64,Metro - Sydney,Casual,JobSeeker,39743,1528.58,127.75,127.29,91.7,1,700.41
+CL1336,18-24,Regional NSW,Permanent Part-Time,JobSeeker,22652,871.23,963.7,967.64,11.1,0,0.0
+CL1337,35-44,Metro - Sydney,Casual,Disability Support,44147,1697.96,187.13,189.65,88.8,1,755.41
+CL1338,18-24,Regional QLD,Seasonal,JobSeeker,17803,684.73,115.77,116.07,83.0,1,284.48
+CL1339,35-44,Metro - Brisbane,Casual,Youth Allowance,42575,1637.5,2717.0,2781.38,69.9,0,0.0
+CL1340,35-44,Metro - Brisbane,Seasonal,Parenting Payment,32703,1257.81,391.9,401.91,68.0,1,432.95
+CL1341,18-24,Metro - Melbourne,Permanent Full-Time,JobSeeker,45021,1731.58,1796.07,1785.74,3.1,0,0.0
+CL1342,35-44,Regional VIC,Casual,JobSeeker,41991,1615.04,5055.14,5038.54,212.0,0,0.0
+CL1343,45-54,Regional NSW,Permanent Part-Time,JobSeeker,39834,1532.08,1686.16,1649.97,7.7,0,0.0
+CL1344,25-34,Metro - Sydney,Permanent Part-Time,JobSeeker,34832,1339.69,1260.44,1261.07,5.9,0,0.0
+CL1345,18-24,Regional QLD,Seasonal,Youth Allowance,13762,529.31,764.18,774.64,46.3,0,0.0
+CL1346,35-44,Regional VIC,Permanent Part-Time,Parenting Payment,39792,1530.46,1401.3,1401.69,8.4,0,0.0
+CL1347,45-54,Regional VIC,Permanent Full-Time,JobSeeker,79931,3074.27,2803.44,2882.72,6.2,0,0.0
+CL1348,25-34,Regional QLD,Casual,JobSeeker,34771,1337.35,1858.63,1817.75,35.9,0,0.0
+CL1349,45-54,Metro - Sydney,Permanent Full-Time,JobSeeker,81286,3126.38,3441.24,3342.19,6.9,0,0.0
+CL1350,35-44,Remote,Seasonal,JobSeeker,25387,976.42,2146.66,2155.95,120.8,0,0.0
+CL1351,25-34,Regional VIC,Permanent Full-Time,JobSeeker,49486,1903.31,1861.86,1857.54,2.4,0,0.0
+CL1352,35-44,Metro - Brisbane,Self-Employed,JobSeeker,68711,2642.73,3251.21,3248.4,22.9,0,0.0
+CL1353,45-54,Regional QLD,Seasonal,JobSeeker,27584,1060.92,154.42,152.99,85.6,1,453.25
+CL1354,35-44,Regional QLD,Seasonal,JobSeeker,29775,1145.19,2703.68,2705.39,136.2,0,0.0
+CL1355,18-24,Regional VIC,Seasonal,Youth Allowance,13976,537.54,1378.33,1386.41,157.9,0,0.0
+CL1356,35-44,Regional QLD,Permanent Part-Time,Disability Support,41753,1605.88,1626.94,1600.61,0.3,0,0.0
+CL1357,45-54,Regional QLD,Permanent Full-Time,Disability Support,77177,2968.35,3040.13,2977.58,0.3,0,0.0
+CL1358,25-34,Remote,Seasonal,JobSeeker,17957,690.65,294.59,297.49,56.9,1,198.03
+CL1359,35-44,Regional VIC,Permanent Full-Time,Parenting Payment,77937,2997.58,3023.83,3001.11,0.1,0,0.0
+CL1360,45-54,Remote,Casual,JobSeeker,36129,1389.58,679.89,692.25,50.2,1,354.84
+CL1361,25-34,Regional QLD,Self-Employed,Parenting Payment,48453,1863.58,1701.73,1664.13,10.7,0,0.0
+CL1362,25-34,Metro - Sydney,Casual,JobSeeker,41370,1591.15,324.1,327.93,79.4,1,633.53
+CL1363,18-24,Regional QLD,Seasonal,JobSeeker,14071,541.19,22.05,21.93,95.9,1,259.57
+CL1364,35-44,Regional VIC,Seasonal,JobSeeker,29682,1141.62,1974.07,2018.62,76.8,0,0.0
+CL1365,45-54,Metro - Sydney,Permanent Full-Time,JobSeeker,72944,2805.54,2706.71,2725.89,2.8,0,0.0
+CL1366,55-64,Remote,Seasonal,JobSeeker,20475,787.5,635.54,629.87,20.0,1,75.98
+CL1367,35-44,Regional NSW,Casual,JobSeeker,44687,1718.73,3066.87,3119.8,81.5,0,0.0
+CL1368,35-44,Metro - Sydney,Permanent Full-Time,JobSeeker,75672,2910.46,2988.48,3001.2,3.1,0,0.0
+CL1369,18-24,Remote,Permanent Part-Time,JobSeeker,19575,752.88,680.78,669.57,11.1,0,0.0
+CL1370,45-54,Regional QLD,Permanent Full-Time,Parenting Payment,66425,2554.81,2467.83,2452.1,4.0,0,0.0
+CL1371,18-24,Metro - Melbourne,Casual,JobSeeker,29831,1147.35,2171.93,2223.6,93.8,0,0.0
+CL1372,45-54,Regional NSW,Casual,JobSeeker,35418,1362.23,2057.27,2071.33,52.1,0,0.0
+CL1373,35-44,Remote,Seasonal,JobSeeker,25918,996.85,2499.85,2574.51,158.3,0,0.0
+CL1374,55-64,Metro - Sydney,Permanent Full-Time,JobSeeker,85776,3299.08,3231.15,3190.45,3.3,0,0.0
+CL1375,18-24,Remote,Casual,Youth Allowance,21015,808.27,1142.06,1155.24,42.9,0,0.0
+CL1376,25-34,Regional VIC,Self-Employed,Disability Support,41296,1588.31,1871.12,1861.47,17.2,0,0.0
+CL1377,18-24,Remote,Seasonal,Youth Allowance,15042,578.54,1554.82,1597.19,176.1,0,0.0
+CL1378,35-44,Metro - Sydney,Self-Employed,JobSeeker,52424,2016.31,1466.96,1496.08,25.8,1,274.67
+CL1379,25-34,Metro - Sydney,Casual,Parenting Payment,41915,1612.12,4266.93,4211.15,161.2,0,0.0
+CL1380,45-54,Metro - Melbourne,Permanent Full-Time,Parenting Payment,88586,3407.15,3118.34,3191.48,6.3,0,0.0
+CL1381,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,43472,1672.0,1787.64,1788.05,6.9,0,0.0
+CL1382,18-24,Regional VIC,Casual,Youth Allowance,22521,866.19,46.56,46.35,94.6,1,409.82
+CL1383,18-24,Regional QLD,Permanent Full-Time,Youth Allowance,45616,1754.46,1684.43,1735.21,1.1,0,0.0
+CL1384,18-24,Metro - Sydney,Permanent Part-Time,JobSeeker,27895,1072.88,1186.75,1157.99,7.9,0,0.0
+CL1385,25-34,Regional QLD,Seasonal,JobSeeker,24943,959.35,413.83,412.06,57.0,1,272.76
+CL1386,25-34,Metro - Sydney,Permanent Part-Time,Disability Support,37323,1435.5,1330.71,1293.35,9.9,0,0.0
+CL1387,18-24,Regional NSW,Permanent Full-Time,Youth Allowance,45445,1747.88,1646.04,1696.11,3.0,0,0.0
+CL1388,35-44,Metro - Melbourne,Permanent Full-Time,Parenting Payment,73084,2810.92,2945.21,2968.67,5.6,0,0.0
+CL1389,35-44,Regional NSW,Self-Employed,Parenting Payment,53984,2076.31,2251.51,2194.57,5.7,0,0.0
+CL1390,45-54,Metro - Sydney,Permanent Full-Time,JobSeeker,92170,3545.0,3541.23,3447.93,2.7,0,0.0
+CL1391,35-44,Metro - Sydney,Casual,JobSeeker,42496,1634.46,831.55,835.57,48.9,1,401.46
+CL1392,25-34,Metro - Sydney,Self-Employed,JobSeeker,42727,1643.35,1763.21,1772.46,7.9,0,0.0
+CL1393,35-44,Metro - Brisbane,Permanent Part-Time,Parenting Payment,41868,1610.31,1935.22,1919.42,19.2,0,0.0
+CL1394,18-24,Regional NSW,Permanent Full-Time,Youth Allowance,46920,1804.62,1790.35,1810.44,0.3,0,0.0
+CL1395,25-34,Remote,Casual,Parenting Payment,28374,1091.31,523.76,535.45,50.9,1,283.77
+CL1396,18-24,Remote,Seasonal,JobSeeker,14051,540.42,1129.89,1099.25,103.4,0,0.0
+CL1397,25-34,Metro - Melbourne,Permanent Part-Time,Youth Allowance,29998,1153.77,1266.13,1243.19,7.8,0,0.0
+CL1398,18-24,Metro - Brisbane,Seasonal,Parenting Payment,20034,770.54,36.0,36.55,95.3,1,367.27
+CL1399,25-34,Metro - Brisbane,Permanent Full-Time,JobSeeker,71023,2731.65,2948.06,2886.64,5.7,0,0.0
+CL1400,25-34,Regional VIC,Seasonal,JobSeeker,24198,930.69,5.9,5.79,99.4,1,462.4
+CL1401,25-34,Metro - Melbourne,Permanent Full-Time,Parenting Payment,67333,2589.73,2898.05,2873.11,10.9,0,0.0
+CL1402,25-34,Regional VIC,Casual,Disability Support,37315,1435.19,491.05,482.1,66.4,1,472.07
+CL1403,25-34,Metro - Sydney,Self-Employed,Parenting Payment,42709,1642.65,1310.17,1304.39,20.6,1,166.24
+CL1404,18-24,Remote,Seasonal,Youth Allowance,13884,534.0,1530.55,1551.5,190.5,0,0.0
+CL1405,35-44,Regional NSW,Seasonal,JobSeeker,25037,962.96,206.93,206.3,78.6,1,378.01
+CL1406,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,67573,2598.96,2664.77,2618.08,0.7,0,0.0
+CL1407,35-44,Metro - Melbourne,Permanent Part-Time,Parenting Payment,47937,1843.73,1883.39,1878.37,1.9,0,0.0
+CL1408,18-24,Regional NSW,Permanent Part-Time,Youth Allowance,20239,778.42,686.38,706.47,9.2,0,0.0
+CL1409,35-44,Regional VIC,Permanent Part-Time,Parenting Payment,31913,1227.42,1399.98,1377.92,12.3,0,0.0
+CL1410,35-44,Metro - Melbourne,Self-Employed,JobSeeker,56262,2163.92,2154.59,2114.46,2.3,0,0.0
+CL1411,35-44,Regional QLD,Permanent Full-Time,Disability Support,76941,2959.27,3060.97,2999.91,1.4,0,0.0
+CL1412,25-34,Remote,Permanent Part-Time,JobSeeker,28582,1099.31,992.44,1000.92,9.0,0,0.0
+CL1413,25-34,Regional VIC,Permanent Full-Time,Youth Allowance,58112,2235.08,2231.99,2168.5,3.0,0,0.0
+CL1414,18-24,Regional NSW,Casual,JobSeeker,20329,781.88,645.48,646.33,17.3,1,68.2
+CL1415,18-24,Metro - Brisbane,Self-Employed,JobSeeker,38077,1464.5,1370.24,1336.65,8.7,0,0.0
+CL1416,18-24,Remote,Seasonal,JobSeeker,15068,579.54,33.48,33.43,94.2,1,273.03
+CL1417,55-64,Metro - Brisbane,Self-Employed,JobSeeker,55941,2151.58,2607.37,2665.51,23.9,0,0.0
+CL1418,18-24,Metro - Melbourne,Casual,Youth Allowance,26548,1021.08,376.89,375.49,63.2,1,322.1
+CL1419,35-44,Regional VIC,Seasonal,JobSeeker,24464,940.92,329.34,336.87,64.2,1,305.79
+CL1420,18-24,Regional QLD,Permanent Full-Time,Youth Allowance,45518,1750.69,1823.85,1794.69,2.5,0,0.0
+CL1421,25-34,Regional VIC,Permanent Full-Time,Youth Allowance,65022,2500.85,2596.5,2530.21,1.2,0,0.0
+CL1422,25-34,Metro - Melbourne,Permanent Full-Time,JobSeeker,61291,2357.35,2527.5,2507.01,6.3,0,0.0
+CL1423,35-44,Metro - Sydney,Casual,Parenting Payment,42878,1649.15,181.9,179.82,89.1,1,733.62
+CL1424,18-24,Metro - Brisbane,Permanent Full-Time,JobSeeker,45199,1738.42,1752.92,1713.39,1.4,0,0.0
+CL1425,25-34,Regional NSW,Seasonal,JobSeeker,24363,937.04,2029.33,1998.37,113.3,0,0.0
+CL1426,45-54,Metro - Melbourne,Permanent Full-Time,JobSeeker,77706,2988.69,2568.73,2596.98,13.1,0,0.0
+CL1427,25-34,Metro - Sydney,Permanent Full-Time,JobSeeker,69310,2665.77,2334.82,2393.25,10.2,0,0.0
+CL1428,35-44,Regional VIC,Self-Employed,Parenting Payment,52143,2005.5,1582.93,1568.47,21.8,1,211.28
+CL1429,18-24,Regional VIC,Seasonal,JobSeeker,14601,561.58,206.31,203.6,63.7,1,177.64
+CL1430,18-24,Regional QLD,Casual,Youth Allowance,20609,792.65,1636.9,1637.79,106.6,0,0.0
+CL1431,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,49075,1887.5,1784.33,1836.59,2.7,0,0.0
+CL1432,45-54,Metro - Melbourne,Permanent Part-Time,Disability Support,38659,1486.88,1452.86,1428.44,3.9,0,0.0
+CL1433,18-24,Regional NSW,Casual,Youth Allowance,23762,913.92,417.52,420.82,54.0,1,248.2
+CL1434,25-34,Regional NSW,Permanent Full-Time,JobSeeker,62790,2415.0,2379.15,2351.43,2.6,0,0.0
+CL1435,35-44,Metro - Sydney,Permanent Full-Time,JobSeeker,90384,3476.31,3455.72,3437.22,1.1,0,0.0
+CL1436,35-44,Regional VIC,Permanent Full-Time,JobSeeker,79432,3055.08,2929.7,2916.97,4.5,0,0.0
+CL1437,55-64,Metro - Melbourne,Permanent Part-Time,JobSeeker,42465,1633.27,1279.66,1279.5,21.7,1,176.8
+CL1438,18-24,Regional VIC,Seasonal,Youth Allowance,14192,545.85,665.36,646.57,18.5,0,0.0
+CL1439,25-34,Metro - Melbourne,Casual,JobSeeker,42305,1627.12,5104.87,5066.2,211.4,0,0.0
+CL1440,35-44,Remote,Seasonal,JobSeeker,26239,1009.19,292.88,291.97,71.1,1,358.16
+CL1441,45-54,Remote,Casual,JobSeeker,39939,1536.12,3061.68,3076.52,100.3,0,0.0
+CL1442,18-24,Regional NSW,Permanent Full-Time,Youth Allowance,46927,1804.88,1870.2,1839.35,1.9,0,0.0
+CL1443,18-24,Remote,Casual,Youth Allowance,20231,778.12,1500.83,1491.08,91.6,0,0.0
+CL1444,18-24,Metro - Sydney,Permanent Full-Time,Youth Allowance,49339,1897.65,1912.7,1924.05,1.4,0,0.0
+CL1445,25-34,Regional NSW,Seasonal,JobSeeker,23811,915.81,2560.76,2636.66,187.9,0,0.0
+CL1446,45-54,Remote,Seasonal,JobSeeker,27815,1069.81,3215.59,3268.95,205.6,0,0.0
+CL1447,25-34,Metro - Brisbane,Self-Employed,Youth Allowance,46076,1772.15,979.51,998.2,43.7,1,396.32
+CL1448,18-24,Metro - Melbourne,Self-Employed,Youth Allowance,35927,1381.81,1716.6,1729.69,25.2,0,0.0
+CL1449,25-34,Metro - Sydney,Permanent Part-Time,JobSeeker,34270,1318.08,1521.31,1487.46,12.9,0,0.0
